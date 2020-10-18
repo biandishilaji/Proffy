@@ -20,7 +20,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/tdypic">Gabriel Rodrigues</a>
+    <a href="https://github.com/biandishilaji">Gabriel Rodrigues</a>
   </sub>
 </div>
 
