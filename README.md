@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/rafael-goulartb/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/gbr-santos/">
+      <img alt="Gabriel Rodrigues" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
 
@@ -30,10 +30,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/Proffy/graphs/contributors">
-      contributors
-    </a>
+    <a href="https://github.com/tdypic">Gabriel Rodrigues</a>
   </sub>
 </div>
 
